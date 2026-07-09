@@ -1,2 +1,2 @@
 # koppie-linux
-random kid making a distro thst can run windows program and has software installer
+random kid making a distro thst can run windows program and has software installer and other
