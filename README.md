@@ -10,7 +10,7 @@ A modern XFCE-based distribution refined for multitasking and stability, crafted
 
 ## 🌐 Official Website & Download
 You can download the early ISO and check the SHA-256 Checksum on our official website:
-👉 **[koppielinux.netlify.app](https://koppielinuxnetlify.app)**
+👉 **[koppielinux.netlify.app](https://koppielinux.netlify.app)**
 
 ## 🛠️ What to Expect in Next Release (v1.1)
 * Custom XFCE visual enhancements (modern icons & themes)
