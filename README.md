@@ -4,7 +4,7 @@ A modern XFCE-based distribution refined for multitasking and stability, crafted
 
 [WARNING!]
 
-YOu need to turn on Wi Fi when installation via USB tethering or LAN cable
+You need to turn on Wi Fi when installation via USB tethering or LAN cable
 
 ## 📌 Project Status
 * **Current Version:** v1.2 LTS Pre-stable
