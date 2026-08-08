@@ -2,9 +2,8 @@
 
 A modern XFCE-based distribution refined for multitasking and stability, crafted by a young Indonesian developer. Experience Linux as it should be—freshly brewed for everyone.
 
-[WARNING!]
-
-You need to turn on Wi Fi when installation via USB tethering or LAN cable
+## ⚠️ WARNING — Pre-stable Release
+**Important:** This build is a pre-stable testing release. If you are installing via USB tethering, make sure Wi‑Fi is enabled on the host device before starting the installer; if you're using a LAN cable, ensure the cable is connected. Without a working network connection the installer may not be able to fetch required packages and the installation could fail.
 
 ## 📌 Project Status
 * **Current Version:** v1.2 LTS Pre-stable
@@ -23,5 +22,4 @@ Some tha are below 2 GB I will put here (in releases maybe?)
 * Deep debloating (removing unused default packages)
 
 ## 💬 Feedback & Bug Reports
-Since this is an pre-stable v1.2 testing version, your feedback is highly appreciated! Please open an **Issue** in this repository or leave a comment on my YouTube channel ( https://www.youtube.com/@MaulaRaihan_14 ) if you find any bugs.
-
+Since this is an pre-stable v1.2 testing version, your feedback is highly appreciated! Please open an **Issue** in this repository or leave a comment on my YouTube channel ( https://www.youtube.co[...] )
