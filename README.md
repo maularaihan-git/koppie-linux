@@ -1,6 +1,10 @@
 # ☕ Koppie Linux
 
-A modern XFCE-based distribution refined for multitasking and stability, crafted by a young Indonesian developer. Experience Linux as it should be—freshly brewed for everyone.
+A modern 
+XFCE-based distribution refined for multitasking and stability, crafted by a young Indonesian developer. Experience Linux as it should be—freshly brewed for everyone.
+
+[WARNING!]
+YOu need to turn on Wi Fi when installation via USB tethering or LAN cable
 
 ## 📌 Project Status
 * **Current Version:** v1.2 LTS Pre-stable
