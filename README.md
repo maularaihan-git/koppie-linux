@@ -31,4 +31,4 @@ Some that are below 2 GB I will put here (in releases maybe?)
 * Deep debloating (removing unused default packages)
 
 ## 💬 Feedback & Bug Reports
-Since this is an pre-stable v1.2 testing version, your feedback is highly appreciated! Please open an **Issue** in this repository or leave a comment on my YouTube channel ( https://www.youtube.co[...] )
+Since this is an pre-stable v1.2 testing version, your feedback is highly appreciated! Please open an **Issue** in this repository or leave a comment on my YouTube channel ( https://www.youtube.com/@MaulaRaihan_14)
