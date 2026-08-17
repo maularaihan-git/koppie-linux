@@ -2,11 +2,12 @@
 
 A modern XFCE-based distribution refined for multitasking and stability, crafted by a young Indonesian developer. Experience Linux as it should be—freshly brewed for everyone.
 
-## ⚠️ WARNING — Pre-stable Release
-**Important:** This build is a pre-stable testing release. If you are installing via USB tethering, make sure Wi‑Fi is enabled on the host device before starting the installer; if you're using a LAN cable, ensure the cable is connected. Without a working network connection the installer may not be able to fetch required packages and the installation could fail.
+## ⚠️ WARNING 
+**Disclaimer:** Koppie Linux is an independent open-source project. It is not affiliated, associated, authorized, endorsed by, or in any way officially connected with KoppieAI, Koppie OS, or any of their subsidiaries or affiliates.
+
 
 ## 📌 Project Status
-* **Current Version:** v1.2 LTS Pre-stable
+* **Current Version:** v1 stable
 * **Base System:** Debian Core
 * **Desktop Environment:** XFCE
 * **Target Stable Release:** v1.2 + (Future v2.0 will be based on Debian 14/15)
