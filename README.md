@@ -3,7 +3,7 @@
 A modern XFCE-based distribution refined for multitasking and stability, crafted by a young Indonesian developer. Experience Linux as it should be—freshly brewed for everyone.
 
 ## ⚠️ WARNING 
-**Disclaimer:** Koppie Linux is an independent open-source project. It is not affiliated, associated, authorized, endorsed by, or in any way officially connected with KoppieAI, Koppie OS, or any of their subsidiaries or affiliates.
+**Disclaimer:** Koppie Linux is an independent open-source project. **It is not affiliated** , associated, authorized, endorsed by, or in any way officially connected **with KoppieAI, Koppie OS, or any of their subsidiaries or affiliates.**
 
 the github of koppie linux : https://github.com/KoppieLinux/
 but i still maybe upload the iso file here not there
