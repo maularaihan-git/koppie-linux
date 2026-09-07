@@ -26,13 +26,13 @@ Koppie Linux follows the minimum requirements for Debian 13 XFCE. Minimum and re
   
 ## 🌐 Official Website & Download
 You can download the early ISO and check the SHA-256 Checksum on our official website:
-👉 **[koppielinux.netlify.app](https://koppielinux.netlify.app)**
+ **[koppielinux.netlify.app](https://koppielinux.netlify.app)**
 Some that are below 2 GB I will put here (in releases maybe?)
 
 ## 🛠️ What to Expect in Next Release (v2 Stable)
-* MOre useful tools
+* More useful tools
 * Newest packages
 * Deep debloating (removing unused default packages)
 
 ## 💬 Feedback & Bug Reports
-If there is a problem with the system or something Please open an **Issue** in this repository or leave a comment on my YouTube channel ( https://www.youtube.com/@MaulaRaihan_14)
+If there is a problem with the system or something Please open an **Issue** in this repository or leave a comment on my **[YouTube channel]( https://www.youtube.com/@MaulaRaihan_14)**
