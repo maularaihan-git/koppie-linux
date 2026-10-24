@@ -10,17 +10,17 @@ but i still maybe upload the iso file here not there
 
 
 ## 📌 Project Status
-* **Current Version:** Coming soon
+* **Current Version:** Build 2026.10.24
 * **Base System:** Arch Linux x86_64
-* **Desktop Environment:** KDe Plasma minimal
+* **Desktop Environment:** KDE Plasma minimal
 * **Rolling release type:**  almost Stable Rolling release
 
 ## 🖥️ Minimum System Requirements
-Koppie Linux follows the minimum requirements for Arch Linux KDE Plasma minimal. Minimum and recommended specs:
+Koppie Linux follows the minimum requirements for Arch Linux KDE Plasma . Minimum and recommended specs:
 
 - Architecture: 64-bit (x86_64)
-- Minimum RAM: 2 GB (4 GB recommended for smoother performance)
-- Disk space: 20 GB free (40 GB recommended)
+- Minimum RAM: 4 GB recommended (4 GB for the ISO copytoram install & smooth performance)
+- Disk space: 25 GB free (40 GB recommended)
 - Display: 1024×768 minimum resolution
 - Internet: Optional
   
@@ -31,4 +31,4 @@ Some that are below 2 GB I will put here (in releases maybe?)
 
 
 ## 💬 Feedback & Bug Reports
-If there is a problem with the system or something Please open an **Issue** in this repository or leave a comment on my **[YouTube channel]( https://www.youtube.com/@MaulaRaihan_14)**
+If there is a problem with the system or something Please open an **Issue** in this repository or leave a comment on my **[YouTube channel]( https://www.youtube.com/@raihanbytes)**
