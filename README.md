@@ -1,3 +1,4 @@
+#Note: Koppie Linux ISOs,repos, and build oflders can be acsessed at **[Koppie Linux Github](https://github.com/KoppieLinux/)**
 # ☕ Koppie Linux
 
 A modern KDE-based distribution refined for multitasking and stability, crafted by a young Indonesian developer. Experience Linux as it should be—freshly brewed for everyone.
@@ -31,4 +32,4 @@ Some that are below 2 GB I will put here (in releases maybe?)
 
 
 ## 💬 Feedback & Bug Reports
-If there is a problem with the system or something Please open an **Issue** in this repository or leave a comment on my **[YouTube channel]( https://www.youtube.com/@raihanbytes)**
+If there is a problem with the system or something Please open an **Issue** in this repository or leave a comment on my **[YouTube channel]( https://www.youtube.com/@raihanbytes)** contact koppie linux at contact.koppielinux@yahoo.com
